@@ -1,6 +1,6 @@
 # Reflectie#
 
-<h2>Anass Azdad<h2>
+<h2>Anass Azdad</h2>
 
 Wat heb ik deze lessen nieuw geleerd?
 
