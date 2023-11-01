@@ -1,15 +1,18 @@
 # Reflectie#
 
-<<<<<<< HEAD
+
 <h2>Calvin </h2>
 
 wat heb ik geleerd?
+
 Hoe github nu werkt heb ik geleerd
 
 wat wist ik al?
+
 hoe je moest clonen
 
 waarvan zou ik nog meer willen weten
+
 meer coderen
 =======
 <h2>Anass Azdad</h2>
@@ -25,4 +28,4 @@ Niks
 Wat zou ik graag nog willen leren?
 
 Hoe git branches werken
->>>>>>> refs/remotes/origin/main
+
