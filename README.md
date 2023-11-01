@@ -1,6 +1,6 @@
 # Reflectie#
 
-console.log("Anass Azdad")
+Anass Azdad
 
 Wat heb ik deze lessen nieuw geleerd?
 
