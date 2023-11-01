@@ -1,6 +1,5 @@
 # Reflectie#
 
-
 <h2>Calvin </h2>
 
 wat heb ik geleerd?
@@ -13,7 +12,8 @@ hoe je moest clonen
 
 waarvan zou ik nog meer willen weten
 
-meer coderen
+Beter Coderen
+
 =======
 <h2>Anass Azdad</h2>
 
